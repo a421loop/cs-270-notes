@@ -2,14 +2,11 @@
 ## Reading Sept 3
 
 
-Similarities to CS 167 or other programming experiences
+Similarities and Differences to CS 167 or other programming experiences
 
 
-This course feels familiar because it’s still about the core programming ideas—functions, loops, conditionals, and classes. 
-The overall approach to problem-solving is the same. For example, the Euclidean algorithm for GCD works the same way whether it’s written in Python or C++.
-
-
-Differences
+This course feels familiar because it’s still about the core programming ideas—functions, trees, and classes. 
+The overall format/order to problem-solving is the same. For example, the Euclidean algorithm for GCD follows similar logical steps in Python or C++.
 
 
 The big changes explained in the reading and what we discussed in class come down to how C++ works as a language:
@@ -17,7 +14,7 @@ The big changes explained in the reading and what we discussed in class come dow
 2) Static typing: In C++, the programmer has to declare the type of everything (variables, parameters, return values), while Python just figures it out.
 3) Memory management: C++ affords control with things like pointers and dynamic memory, but that also means the programmer is responsible for keeping track of it.
 4) Syntax: The rules are stricter—semicolons, curly braces, header files, and just a lot more ways to write the same thing compared to Python.
-
+Additionally I do feel like these concepts are more intermediate while as with CS167 it was only an introduction.
 
 Most interesting or confusing part of the reading
 
