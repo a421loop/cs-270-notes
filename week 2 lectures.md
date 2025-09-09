@@ -16,3 +16,7 @@ the definining flowchart
 the output of this would be 1 2 3 4 5
 
 <img width="523" height="501" alt="image" src="https://github.com/user-attachments/assets/5ee1a45a-3466-4bef-946a-26758fa625f3" />
+
+### Notes of debugging
+
+You can get the first letter of a string with char firstLetter = myName.at(0); or use the [] operator if you prefer.
